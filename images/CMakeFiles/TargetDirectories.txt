@@ -1,0 +1,3 @@
+/Users/lgy/opencv-test/bowFull/bow/images/CMakeFiles/rebuild_cache.dir
+/Users/lgy/opencv-test/bowFull/bow/images/CMakeFiles/edit_cache.dir
+/Users/lgy/opencv-test/bowFull/bow/images/CMakeFiles/ORBFeatureAndCompare.dir
